@@ -1,21 +1,18 @@
 # Getting Started
 
-### Reference Documentation
+### 项目介绍
 
-For further reference, please consider the following sections:
+一份成熟、可运行、经过答辩之后的大学生毕业设计:
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.13/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.13/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.6.13/reference/htmlsingle/#web)
-* [Thymeleaf](https://docs.spring.io/spring-boot/docs/2.6.13/reference/htmlsingle/#web.servlet.spring-mvc.template-engines)
+* Key word：电影院 系统 平台设计
+* Technical：Spring Boot + Mybatis + MySQL + Redis + Vue.js
+* Author：ZhouHuanPing
+* Date：2024年6月5日
 
-### Guides
 
-The following guides illustrate how to use some features concretely:
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-* [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
+## 说明
+
+下载旁边的***release***解压即可运行
+
 
